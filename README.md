@@ -12,7 +12,8 @@ There are some factors that affects Death Event. This dataset contains person's 
 https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
 
 ## Columns: 
-Age: Age of the patient in years
+
+ Age: Age of the patient in years
 Anaemia: Decrease of red blood cells or hemoglobin (0:Reduced or 1:Normal)
 creatinine_phosphokinase: Level of the CPK enzyme in the blood (mcg/L)
 Diabetes: If the patient has diabetes (0:No or 1:Yes)
