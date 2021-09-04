@@ -24,3 +24,26 @@ death_event: If the patient survived till the end of follow-up period (0:No or 1
 
 ## Steps Followed:
 
+![Screenshot 2021-09-04 123652](https://user-images.githubusercontent.com/77155721/132086024-88bc0c93-6b77-481c-b465-aa19d5d200e3.png)
+
+Column’s anaemia, diabetes, high blood pressure and smoking are Boolean type
+Rest of the columns except sex are numeric.
+sex is a categorical column with only 2 values (Male: 0 and Female: 1). Since there are only 2
+categories, we need not do any hot encoding and we can leave them as they are.
+DEATH_EVENT is our label column
+
+After EDA and Data Preprocessing 
+
+## Feature Selection
+Lets find out what features are relevant for predicting heart failure.
+We can do this in two ways:
+1.Plotting a correlation wrt death event and visualizing each feature wrt Death Event and see if there
+is any correlation
+2.Using feature importance in ensemble techniques
+
+Correlation only works in case of non-categorical data. So it needs additional effort for checking
+relation between categorical data and label.
+
+
+
+
