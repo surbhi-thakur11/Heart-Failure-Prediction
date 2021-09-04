@@ -21,3 +21,6 @@ sex: Biological sex of the patient (0:Female or 1:Male)
 smoking: If the patient is a smoker (0:No or 1: Yes)
 time: Follow-up period in days
 death_event: If the patient survived till the end of follow-up period (0:No or 1:Yes )
+
+## Steps Followed:
+
