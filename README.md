@@ -59,6 +59,15 @@ Random Forest gave the best results.
 And then I dumped the model into pickle file for deployment and to prepare the .py file. 
 
 ## Final Model after Deployment
+![Screenshot 2021-09-04 124402](https://user-images.githubusercontent.com/77155721/132086251-947c4635-f297-40c8-baa2-52e73ca5bec8.png)
+
+## Links
+Deployed Model: https://share.streamlit.io/surbhi-thakur11/heart-failure-prediction/main/temp.py
+
+Dataset Link: https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
+
+
+LinkedIn video: https://www.linkedin.com/posts/surbhi-thakur11_datascience-python-internship-activity-6804667185840099328-ImcU
 
 
 
