@@ -43,6 +43,14 @@ is any correlation
 
 Correlation only works in case of non-categorical data. So it needs additional effort for checking
 relation between categorical data and label.
+![image](https://user-images.githubusercontent.com/77155721/132086121-11876f4a-0f7c-4458-b4a8-e9e8f7dd94df.png)
+
+'time' is the most influential variable.
+'serum creatinine', 'ejection fraction', 'age', 'creatinine phosphokinase', 'platelets', 'serum sodium' are
+
+looking important in the specified order. All these numerical features and as we saw from the chi-
+square tests earlier, the categorical features are not so important.
+
 
 
 
