@@ -51,7 +51,14 @@ relation between categorical data and label.
 looking important in the specified order. All these numerical features and as we saw from the chi-
 square tests earlier, the categorical features are not so important.
 
+![image](https://user-images.githubusercontent.com/77155721/132086154-7a77200e-7bb6-4a32-bea7-56ee22484448.png)
 
+After Feature Selection, we applied Feature Scaling and then made the model with the best possible algorithm.
+Random Forest gave the best results.
+
+And then I dumped the model into pickle file for deployment and to prepare the .py file. 
+
+## Final Model after Deployment
 
 
 
